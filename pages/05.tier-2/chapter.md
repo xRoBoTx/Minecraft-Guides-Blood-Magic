@@ -17,8 +17,6 @@ restaurant:
     priceRange: $
 ---
 
-
-
 # Tier 2
 
 Before you jump into tier 2 of the Blood Altar it's a good idea to have a few things in place:
