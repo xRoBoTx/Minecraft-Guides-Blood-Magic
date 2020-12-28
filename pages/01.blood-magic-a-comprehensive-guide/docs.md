@@ -16,6 +16,10 @@ orga:
 orgaratingenabled: false
 eventenabled: false
 personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
 restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
@@ -33,7 +37,8 @@ For the best experience, you should install JustEnoughItems to find your way thr
 
 **Authors:** WayofTime - Owner, Arcaratus - Contributor, BBoldt - Artist, CyanideX - Artist,  TehNut - Author, Yulife - Artist
 
-<center>Current Version/Version Used:<b> 2.4.1-10.</b></center>. 
+<center>Current Version/Version Used:<b> 2.4.1-10.</b></center>
+
 <center>Minecraft Version Used:<b> 1.12.2</b></center>
 
 <center>
@@ -43,10 +48,10 @@ For the best experience, you should install JustEnoughItems to find your way thr
     --
     <b><a href="https://discord.gg/VtNrGrs  " target="_blank">Discord</a></b>  
 
-</center>. 
+</center>  
 
 
- >>>>> This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.  
- 
-
- >>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.  
+  >>>>> This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.  
+  
+  
+  >>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.  
