@@ -33,9 +33,19 @@ For the best experience, you should install JustEnoughItems to find your way thr
 
 **Authors:** WayofTime - Owner, Arcaratus - Contributor, BBoldt - Artist, CyanideX - Artist,  TehNut - Author, Yulife - Artist
 
+<center>Current Version/Version Used:<b> 2.4.1-10.</b></center>. 
+<center>Minecraft Version Used:<b> 1.12.2</b></center>
 
-**Current Minecraft Version:** 1.12.2. 
-**Current Blood Magic Version: **2.4.1-10. 
-  
-**Curse Link:** https://minecraft.curseforge.com/projects/blood-magic  
-**Discord Link:** https://discord.gg/VtNrGrs  
+<center>
+    <b><a href="https://minecraft.curseforge.com/projects/blood-magic " target="_blank">CurseForge</a></b>
+    --
+   <b><a href="https://github.com/WayofTime/BloodMagic/issues" target="_blank">GitHub</a></b>
+    --
+    <b><a href="https://discord.gg/VtNrGrs  " target="_blank">Discord</a></b>
+
+</center>
+
+
+>>>>> This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.
+
+>>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.
