@@ -41,11 +41,11 @@ For the best experience, you should install JustEnoughItems to find your way thr
     --
    <b><a href="https://github.com/WayofTime/BloodMagic/issues" target="_blank">GitHub</a></b>
     --
-    <b><a href="https://discord.gg/VtNrGrs  " target="_blank">Discord</a></b>
+    <b><a href="https://discord.gg/VtNrGrs  " target="_blank">Discord</a></b>  
 
-</center>
+</center>. 
 
 
->>>>> This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.
+>>>>> This guide will not have any crafting recipes in it. Please use [JEI](https://minecraft.curseforge.com/projects/jei?gameCategorySlug=mc-mods&projectID=238222), as some modpacks change crafting recipes.  
 
->>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.
+>>>>>  You can use the Arrow Keys to navigate pages backwards and forwards. The checkmarks next to the title indicate which pages you have visited. You can clear this by pressing "Clear History" at the bottom of the menu.  
