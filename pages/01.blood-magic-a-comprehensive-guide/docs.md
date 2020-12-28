@@ -34,8 +34,8 @@ For the best experience, you should install JustEnoughItems to find your way thr
 **Authors:** WayofTime - Owner, Arcaratus - Contributor, BBoldt - Artist, CyanideX - Artist,  TehNut - Author, Yulife - Artist
 
 
-**Current Minecraft Version:** 1.12.2
-**Current Blood Magic Version: **2.4.1-10
-
-**Curse Link:** https://minecraft.curseforge.com/projects/blood-magic 
-**Discord Link:** https://discord.gg/VtNrGrs 
+**Current Minecraft Version:** 1.12.2. 
+**Current Blood Magic Version: **2.4.1-10. 
+  
+**Curse Link:** https://minecraft.curseforge.com/projects/blood-magic  
+**Discord Link:** https://discord.gg/VtNrGrs  
