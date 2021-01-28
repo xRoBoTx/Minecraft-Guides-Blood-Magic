@@ -1,6 +1,6 @@
 ---
 title: 'PDF Download'
-external_url: 'https://bm.minecraftguides.net/Blood%20Magic.pdf'
+external_url: 'https://minecraftguides.net/BM/Blood%20Magic.pdf'
 twitterenable: true
 twittercardoptions: summary
 articleenabled: false
@@ -11,10 +11,7 @@ orga:
 orgaratingenabled: false
 eventenabled: false
 personenabled: false
-musicalbumenabled: false
-productenabled: false
-product:
-    ratingValue: 2.5
+product: {  }
 restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
