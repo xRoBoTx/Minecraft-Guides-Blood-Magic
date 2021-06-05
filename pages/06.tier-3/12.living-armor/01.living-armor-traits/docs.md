@@ -100,7 +100,7 @@ Provides rebirth on death. Displays "A shadowy force pulls you from the brink of
 
 | Level                      | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8    | 9    | 10   | 
 |----------------------------|-----|-----|-----|-----|-----|-----|------|------|------|------|
-| Rebirth Delay in Minutes   | 60  | 50  | 45  | 4   | 30  | 25  | 15   | 1    | 5    | 1    |
+| Rebirth Delay in Minutes   | 60  | 50  | 45  | 40  | 30  | 25  | 15   | 1    | 5    | 1    |
 | Upgrade Points             | 20  | 50  | 130 | 270 | 450 | 580 | 700  | 800  | 900  | 1000 |
 
 ### Solar Powered 
